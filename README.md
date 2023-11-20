@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [VirtualVet](https://github.com/BrinzeiLucian/VirtualVet)
 
-- 🌱 I’m currently learning **Fullstack cross-platform development**
+- 🌱 I’m currently learning **Fullstack cross-platform development with React (MERN)**
 
 <br/>
 
