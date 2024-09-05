@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinzeilucian" alt="brinzeilucian" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack cross-platform development with React (MERN)**
-
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
