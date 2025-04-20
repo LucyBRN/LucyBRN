@@ -2,7 +2,7 @@
 
 <h3 align="center">QA Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brinzeilucian" alt="brinzeilucian" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucyBRN" alt="lucyBRN" /></a> </p>
 
 <br/>
 
@@ -52,8 +52,8 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinzeilucian&show_icons=true&locale=en&layout=compact" alt="brinzeilucian" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucyBRN&show_icons=true&locale=en&layout=compact" alt="lucyBRN" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brinzeilucian&show_icons=true&locale=en" alt="brinzeilucian" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucyBRN&show_icons=true&locale=en" alt="lucyBRN" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brinzeilucian&" alt="brinzeilucian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucyBRN&" alt="lucyBRN" /></p>
